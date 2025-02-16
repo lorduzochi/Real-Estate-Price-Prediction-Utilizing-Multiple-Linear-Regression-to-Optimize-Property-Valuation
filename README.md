@@ -1,4 +1,4 @@
-# Real-Estate-Price-Prediction-Utilizing-Multiple-Linear-Regression-to-Optimize-Property-Valuation
+# Real Estate Price Prediction
 
 ## Table of Content
 
