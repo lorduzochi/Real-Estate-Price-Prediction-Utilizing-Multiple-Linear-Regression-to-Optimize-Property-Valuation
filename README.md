@@ -7,6 +7,7 @@
 - [Tool](#tool)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Key Learning Points](Key-learning-points)
+- [Data Analysis](data-analysis)
 
 ## Project Overview
 
@@ -40,5 +41,8 @@ At the initial data preparation phase, we performed the following task;
 ## Data Analysis
 
 ~~~
-Price Prediction Formula = 199968.139619402 + (12544.6085385179 * Bed) + (3125.03547642441*Bath) + (59733.9777339705*Acre_Lot) + (72.41262996283220233.5441523275*Garage) + (17976.2887002955*Swimming_Pool) + (-3962.17842795843*House_Age) + (1025.72743770586*Safety_Index))
+Price Prediction Formula = 199968.139619402 + (12544.6085385179 * Bed)
++ (3125.03547642441*Bath) + (59733.9777339705*Acre_Lot)
++ (72.41262996283220233.5441523275*Garage) + (17976.2887002955*Swimming_Pool)
++ (-3962.17842795843*House_Age) + (1025.72743770586*Safety_Index))
 ~~~
