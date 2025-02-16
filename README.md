@@ -13,6 +13,9 @@
 
 This project involved an in-depth exploration of property valuation optimization through the use of Multiple Linear Regression in Microsoft Excel, aimed at refining accuracy in property values. The project addressed market volatility and localized influences by leveraging data-driven insights and advanced analytical techniques. My role was critical in enhancing RealEstateBud’s capability to deliver precise and transparent property valuations, thereby fortifying its competitiveness and instilling trust among clients.
 
+
+![Regression Statistic](https://github.com/user-attachments/assets/f7060cb7-fa39-461e-853e-5887b916c446)
+
 ## Data Source
 
 real_estate_price: The primary dataset used for this analysis is the "real_estate_price.csv" file, containing detailed information about each property valuation.
@@ -38,6 +41,9 @@ At the initial data preparation phase, we performed the following task;
 -	Model Evaluation
 -	Data Visualization
 
+![Descriptive Statistic](https://github.com/user-attachments/assets/93c69061-1966-4874-b330-528e5a1916ca)
+
+
 ## Data Analysis
 
 ~~~
@@ -46,3 +52,5 @@ Price Prediction Formula = 199968.139619402 + (12544.6085385179 * Bed)
 + (72.41262996283220233.5441523275*Garage) + (17976.2887002955*Swimming_Pool)
 + (-3962.17842795843*House_Age) + (1025.72743770586*Safety_Index))
 ~~~
+
+![Price Prediction calculator](https://github.com/user-attachments/assets/9e620555-d5ce-4391-a5d4-7517b42771c0)
