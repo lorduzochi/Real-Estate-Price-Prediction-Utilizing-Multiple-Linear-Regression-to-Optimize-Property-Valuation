@@ -6,8 +6,8 @@
 - [Data Source](#data-source)
 - [Tool](#tool)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Key Learning Points](Key-learning-points)
-- [Data Analysis](data-analysis)
+- [Key Learning Points](#Key-learning-points)
+- [Data Analysis](#data-analysis)
 
 ## Project Overview
 
